@@ -1,0 +1,13 @@
+img {
+    width: 100px;
+    border-radius: 60px;
+    border-bottom-color: blue;
+    float: left;
+    margin-right: 15px;}
+p.ime{
+    font-weight: bold;
+}
+p.pesma{
+    color: blueviolet;
+}
+
